@@ -2,8 +2,10 @@ public class Main {
 
  public static void main(String[] args){
 
+   String start =  "Hello word, ou ola mundo como vcs gostam de falar, salve salve :) \n" ;
+   System.out.println(start);
+   
    String nome = "isauan";
-   //nome =  "nicoli" ;
 
    char controle = 'v';
    System.out.println(nome);
